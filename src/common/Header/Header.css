@@ -1,0 +1,28 @@
+.Header{
+    height:36px;
+    padding:8px 32px 8px 16px;
+    background-color: #222;
+}
+#btn-bookshow, #btn-logging{
+    float:right;
+    margin-right:5px;
+}
+.Login-register-modal{
+    top: 50%;
+    left: 50%;
+    right: auto;
+    bottom: auto;
+    margin-right: 50%;
+    transform: translate(-50%, -50%);
+    width: 100px;
+}
+.login-tab{
+    
+}
+.multi-tab-form{
+    
+}
+.input-fields{
+    padding:0;
+    
+}
